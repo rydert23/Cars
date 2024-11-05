@@ -1,0 +1,52 @@
+#header-main h1{
+  color: black !important;
+  font-size: x-large;
+  font-size: 250px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 20cm;}
+  #header-page h1{
+color: goldenrod;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-right: 20cm;
+  }
+  #header-link h1{
+    color: maroon;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-right: 20cm;
+      }
+      
+  
+body {
+    background-color: gainsboro;
+    max-width: 900px;
+    margin: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  }
+
+  p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+#nav-bar li {
+  padding-top: 45px;
+list-style-type:none;
+float: left;
+padding-right:100px;
+text-align: center;
+padding-left:100px;
+}
+#nav-bar a {
+color: maroon;
+}
+#nav-bar a:hover {
+color: goldenrod;
+}
+img {
+  padding-top:45px;
+}
